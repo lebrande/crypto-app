@@ -1,4 +1,8 @@
-# TypeScript Next.js example
+## JS Dżem Crypto App
+
+Link to demo: [https://crypto-app-sage.vercel.app/](https://crypto-app-sage.vercel.app/)
+
+## TypeScript Next.js example
 
 This is a really simple project that shows the usage of Next.js with TypeScript.
 
